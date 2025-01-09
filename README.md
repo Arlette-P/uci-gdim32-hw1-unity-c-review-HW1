@@ -6,12 +6,14 @@ Put your notes from the W1L2 (Thurs, Jan 9) in-class activity here.
 HW1 activity
 
 Objects:
+  
   The UI
     Seeds planted UI
       Counts up, up to how many you start with in “Seeds remaining UI” (in this case, 5) \[(WHen player plata  a seed)
       Attributes: text]
     Seeds remaining UI
       Counts down, to zero \[(when player plats a seed)]
+  
   The player
     \[Attributes : Bunny sprite ]
     Movement 
@@ -21,6 +23,7 @@ Objects:
       Input: press space
       Output: seed is planted @player location; decrease seed count + increase plant count (shows up in UI); player has to have seeds left in order to plant ]
     Calls upon the plant prefab and brings the plant into the environment
+
   The plants
   \[  Attributes: Plant sprite]
 \[\[    Prefab
